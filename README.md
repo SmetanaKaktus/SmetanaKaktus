@@ -17,3 +17,9 @@
 </div>
 
 ### :woman_student: обо мне:
+
+- :partying_face: факт обо мне
+
+- :ghost: факт обо мне
+
+- :woman_dancing: факт обо мне
